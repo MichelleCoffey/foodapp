@@ -32,13 +32,13 @@ main {
     margin-bottom: 30px;
 }
 .btn-primary {
-    background-color: #343a40;
-    border-color: #343a40;
+    background-color: #e61faa;
+    border-color: white;
     font-weight: bold;
 }
 .btn-primary:hover {
-    background-color: #212529;
-    border-color: #212529;
+    background-color: black;
+    border-color: white;
 }
 
 
