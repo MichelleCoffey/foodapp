@@ -16,8 +16,13 @@ main {
     font-family: "Poiret One", sans-serif;
     background-color: #f8f9fa;
     padding: 50px 0;
-    background-image:url("assets/images/mikebanana.jpg") ;
 }
+
+.image {
+    max-width: 100%;
+    height: auto;
+  }
+
 .section-title {
     font-family: "Poiret One", sans-serif;
     color: #343a40;
